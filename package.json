@@ -1,0 +1,27 @@
+{
+  "name": "@exordium/scss-frontend",
+  "version": "0.0.2",
+  "description": "The frontend sass/scss design for exordium.org",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exordium-dev/scss-frontend.git"
+  },
+  "keywords": [
+    "exordium",
+    "frontend",
+    "scss",
+    "sass"
+  ],
+  "author": "FearGannicus",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/exordium-dev/scss-frontend/issues"
+  },
+  "homepage": "https://github.com/exordium-dev/scss-frontend#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
