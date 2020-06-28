@@ -1,2 +1,3 @@
-# scss-frontend
-The frontend sass/scss design for exordium.org.
+# Frontend Design (SCSS)
+
+The frontend source sass/scss design for exordium.org.
