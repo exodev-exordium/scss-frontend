@@ -135,7 +135,7 @@ textarea.ng-valid {
 .input-group-prepend.ng-invalid .input-group-text,
 input.ng-dirty.ng-invalid,
 textarea.ng-dirty.ng-invalid,
-.ng-select.ng-dirty.ng-invalid {
+.ng-select.ng-dirty.ng-invalid .ng-select-container {
     border-color: #dc3545;
 
     &:focus {
@@ -153,7 +153,7 @@ textarea.ng-dirty.ng-invalid {
 .input-group-prepend.ng-valid .input-group-text,
 input.ng-dirty.ng-valid,
 textarea.ng-dirty.ng-valid,
-.ng-select.ng-dirty.ng-valid {
+.ng-select.ng-dirty.ng-valid .ng-select-container {
     border-color: #28a745;
 
     &:focus {
